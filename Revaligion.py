@@ -42,7 +42,7 @@ def func(df1,ticker):
 
 
 
-	df5=df1[['Open','High','Low','Close','Volume','HL_PCT','PCT_change']]
+	df5=df1[['Open','High','Low','Volume','HL_PCT','PCT_change']]
 
 
 
